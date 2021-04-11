@@ -1,0 +1,14 @@
+Engine_Capacity,Max_Power,Mileage,Starting_Mechanism,Ignition,Gears,Price
+1380.0 CC,96.60 bhp @ 6500 rpm,15 Km/l,Self Start,Fuel Injection,6 Speed,2778000
+1745.0 CC,65.00 bhp @ 5500 rpm,15 Km/l,Self Start,Electronic Sequential Port Fuel Injection (ESPFI),6 Speed,3053000
+1811.0 CC,100.00 bhp @ 3000 rpm,20 Km/l,Self Start,Closed Loop Fuel Injection,6 Speed,3201000
+1745.0 CC,N/A,15 Km/l,Self Start,Electronic Sequential Port Fuel Injection (ESPFI),6 Speed,3299000
+1811.0 CC,100.00 bhp @ 8000 rpm,14 Km/l,Self Start,Closed Loop Fuel Injection,6 Speed,3350000
+998.0 CC,227.00 bhp @ 11500 rpm,15 Km/l,Self Start,Fuel Injection,6 Speed,3499000
+1811.0 CC,73.00 bhp @  rpm,18 Km/l,Self Start,Closed Loop Fuel Injection,6 Speed,3800000
+998.0 CC,201.00 bhp @ 13600 rpm,15 Km/l,Self Start,Fuel Injection,6 Speed,3571000
+1811.0 CC,100.00 bhp @ 3000 rpm,15 Km/l,Self Start,Closed Loop Fuel Injection,6 Speed,3900000
+1811.0 CC,N/A,15 Km/l,Self Start,Closed Loop Fuel Injection,6 Speed,4800000
+1923.0 CC,N/A,8 Km/l,Self Start,Electronic Sequential Port Fuel Injection (ESPFI),6 Speed,4999000
+1285.0 CC,207.00 bhp @ 11000 rpm,15 Km/l,Self Start,Mitsubishi Electronic Fuel Injection System,6 Speed,5182000
+998.0 CC,322.00 bhp @ 14000 rpm,15 Km/l,Self Start,Fuel injection: ø50 mm x 4 with dual injection,6 Speed,7580000
